@@ -1,0 +1,43 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-31 01:34:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 01:46:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 01:55:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 01:55:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 02:42:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 02:42:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 03:23:04 --> 404 Page Not Found: Img/berita.png
+ERROR - 2022-07-31 03:24:00 --> 404 Page Not Found: Img/website.png
+ERROR - 2022-07-31 03:24:01 --> 404 Page Not Found: Img/lpse.png
+ERROR - 2022-07-31 03:25:16 --> 404 Page Not Found: Img/aduan.png
+ERROR - 2022-07-31 03:25:47 --> 404 Page Not Found: Img/jdih.png
+ERROR - 2022-07-31 03:25:50 --> 404 Page Not Found: Img/gis.png
+ERROR - 2022-07-31 03:25:56 --> 404 Page Not Found: Img/info.png
+ERROR - 2022-07-31 03:26:00 --> 404 Page Not Found: Img/subdomain.png
+ERROR - 2022-07-31 04:23:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 04:40:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 05:13:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 05:13:28 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-07-31 08:14:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 09:00:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 10:01:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 10:55:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 11:31:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 12:31:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 14:57:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 15:12:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 15:29:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 15:29:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 23:01:31 --> Severity: Warning --> file_get_contents(./media_library/files/9ed6cb28c658d6e2b06b4ade5b6f5b80.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-07-31 16:40:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 17:50:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-07-31 17:50:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-07-31 18:08:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 18:53:30 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-07-31 20:14:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 20:14:44 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-07-31 21:08:30 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-07-31 21:53:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 22:59:01 --> 404 Page Not Found: Pricing/index
+ERROR - 2022-07-31 23:34:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-07-31 23:34:02 --> 404 Page Not Found: Media_library/images

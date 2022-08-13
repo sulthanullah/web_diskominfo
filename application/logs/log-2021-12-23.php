@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-12-23 00:20:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 00:39:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 00:40:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 01:02:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 02:17:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 02:19:17 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-12-23 02:24:15 --> 404 Page Not Found: Category/2
+ERROR - 2021-12-23 02:56:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 04:31:29 --> 404 Page Not Found: Git/config
+ERROR - 2021-12-23 04:31:32 --> 404 Page Not Found: Git/config
+ERROR - 2021-12-23 04:32:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 04:53:58 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-12-23 04:58:30 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-12-23 05:13:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-12-23 05:19:22 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2021-12-23 06:04:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 07:30:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 11:23:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 12:41:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 13:34:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 15:51:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 17:14:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 18:45:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 19:11:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 20:52:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 21:41:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-12-23 22:53:52 --> 404 Page Not Found: Robotstxt/index

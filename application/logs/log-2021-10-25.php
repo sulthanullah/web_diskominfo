@@ -1,0 +1,60 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-25 06:14:58 --> Severity: Warning --> file_get_contents(./media_library/files/24051b2745cbb806d88507e6ade2a70a.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-10-25 00:48:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 01:08:28 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-25 01:08:28 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-25 01:08:29 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-10-25 01:18:24 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-25 01:18:56 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-25 01:19:14 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-25 01:51:57 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2021-10-25 01:51:57 --> 404 Page Not Found: Maint/modules
+ERROR - 2021-10-25 03:23:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 03:43:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 10:43:54 --> Severity: Warning --> file_get_contents(./media_library/files/a6ac70ff63395f1a06752d44ec557b70.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-10-25 04:21:17 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-10-25 04:43:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 05:11:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-10-25 05:45:05 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-10-25 05:54:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 06:22:23 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-10-25 07:39:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 07:55:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 15:12:38 --> Severity: Warning --> file_get_contents(./media_library/files/a6ac70ff63395f1a06752d44ec557b70.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-10-25 08:40:22 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-25 08:40:23 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-25 08:40:24 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-25 08:57:50 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-10-25 09:03:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 09:03:12 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-25 09:33:13 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-10-25 09:33:13 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-10-25 09:33:14 --> 404 Page Not Found: blog/Wp-includes/wlwmanifest.xml
+ERROR - 2021-10-25 09:33:14 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-10-25 09:33:15 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-10-25 09:33:15 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-10-25 09:33:15 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-10-25 09:33:16 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-10-25 09:33:16 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-10-25 09:33:16 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-10-25 09:33:17 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-10-25 09:33:17 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-10-25 09:33:17 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-10-25 09:33:18 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-10-25 09:33:18 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-10-25 09:33:19 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-10-25 09:33:19 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-10-25 14:04:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 14:13:53 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-25 14:13:53 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-25 14:13:55 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-10-25 16:31:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 20:14:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 21:01:09 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-10-25 21:05:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 21:08:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 22:16:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 22:30:44 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-25 22:34:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-25 23:00:42 --> 404 Page Not Found: Robotstxt/index

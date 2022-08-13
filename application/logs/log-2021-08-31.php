@@ -1,0 +1,50 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-31 00:21:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 00:49:32 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-08-31 01:28:53 --> 404 Page Not Found: News/index
+ERROR - 2021-08-31 02:48:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 03:03:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 04:37:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 05:01:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 06:42:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 05:42:05 --> Severity: Warning --> file_get_contents(./media_library/files/4927507249587b8f7b885640d69e00a9.pdf): failed to open stream: No such file or directory /www/wwwroot/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-08-31 09:15:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 09:30:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 11:06:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 13:55:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 15:00:08 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-08-31 15:00:08 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-08-31 15:00:09 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-08-31 16:18:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 16:37:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 15:37:27 --> Severity: Warning --> file_get_contents(./media_library/files/d7a9c3344e278511f62233f3338c6c4b.pdf): failed to open stream: No such file or directory /www/wwwroot/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-08-31 17:00:49 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-08-31 17:00:49 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-08-31 17:00:50 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-08-31 17:00:52 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-31 17:00:52 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-31 17:00:52 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-31 17:00:53 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-08-31 17:00:54 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-08-31 17:00:54 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-08-31 17:00:57 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-08-31 17:02:57 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-08-31 17:02:57 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-08-31 17:02:57 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-08-31 17:15:50 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-08-31 17:15:50 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-08-31 17:15:50 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-31 17:15:50 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-31 17:15:50 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-31 17:15:50 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-08-31 17:15:50 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-08-31 17:15:50 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-08-31 17:15:51 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-08-31 17:38:38 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-31 18:03:41 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-08-31 20:19:11 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-31 20:47:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 20:57:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-31 22:01:46 --> 404 Page Not Found: Event/index
+ERROR - 2021-08-31 22:39:46 --> 404 Page Not Found: Wp-loginphp/index

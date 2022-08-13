@@ -1,0 +1,49 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-13 00:46:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 00:59:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 01:26:06 --> 404 Page Not Found: Services/transportation
+ERROR - 2021-09-13 05:51:20 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-09-13 05:51:21 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-09-13 05:51:21 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-09-13 05:51:21 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-09-13 05:51:21 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-09-13 05:51:21 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-09-13 05:51:21 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-09-13 05:51:22 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-09-13 05:51:22 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-09-13 06:16:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 05:16:04 --> Severity: Warning --> file_get_contents(./media_library/files/9f45fae99e429883847a09680d466768.pdf): failed to open stream: No such file or directory /www/wwwroot/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-09-13 08:31:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 08:32:22 --> 404 Page Not Found: Search_form/index
+ERROR - 2021-09-13 08:32:29 --> 404 Page Not Found: A/index
+ERROR - 2021-09-13 09:09:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 10:45:54 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-09-13 12:06:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 12:15:23 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-09-13 12:15:23 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-09-13 12:15:23 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-09-13 12:15:23 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-09-13 12:15:23 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-09-13 12:15:23 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-09-13 12:15:23 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-09-13 12:15:23 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-09-13 12:15:23 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-09-13 12:15:24 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-09-13 12:19:36 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-09-13 12:19:36 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-09-13 12:19:36 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-09-13 12:19:36 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-09-13 12:19:36 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-09-13 12:19:36 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-09-13 12:19:44 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-09-13 12:19:44 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-09-13 12:19:44 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-09-13 13:52:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 14:30:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 14:53:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 18:17:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-13 18:35:46 --> Severity: Warning --> file_get_contents(./media_library/files/8fb77a2d09446f6b98eb900caa2bbd32.pdf): failed to open stream: No such file or directory /www/wwwroot/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-09-13 20:51:14 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-09-13 20:51:15 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-09-13 23:10:28 --> 404 Page Not Found: Robotstxt/index

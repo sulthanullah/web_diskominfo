@@ -1,0 +1,84 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-10 00:43:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 02:40:01 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-10 02:57:19 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-01-10 03:07:13 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 03:25:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 10:25:14 --> Severity: Warning --> file_get_contents(./media_library/files/a6ac70ff63395f1a06752d44ec557b70.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-01-10 03:45:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 04:36:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 04:43:57 --> 404 Page Not Found: blog//index
+ERROR - 2022-01-10 04:43:57 --> 404 Page Not Found: Wp/index
+ERROR - 2022-01-10 04:43:57 --> 404 Page Not Found: Wordpress/index
+ERROR - 2022-01-10 04:43:57 --> 404 Page Not Found: New/index
+ERROR - 2022-01-10 04:43:57 --> 404 Page Not Found: Old/index
+ERROR - 2022-01-10 04:43:58 --> 404 Page Not Found: Test/index
+ERROR - 2022-01-10 04:43:58 --> 404 Page Not Found: Main/index
+ERROR - 2022-01-10 04:43:58 --> 404 Page Not Found: Site/index
+ERROR - 2022-01-10 04:43:58 --> 404 Page Not Found: Backup/index
+ERROR - 2022-01-10 04:43:58 --> 404 Page Not Found: Demo/index
+ERROR - 2022-01-10 04:43:59 --> 404 Page Not Found: Tmp/index
+ERROR - 2022-01-10 04:43:59 --> 404 Page Not Found: Cms/index
+ERROR - 2022-01-10 04:43:59 --> 404 Page Not Found: Dev/index
+ERROR - 2022-01-10 04:43:59 --> 404 Page Not Found: Old-wp/index
+ERROR - 2022-01-10 04:43:59 --> 404 Page Not Found: Web/index
+ERROR - 2022-01-10 04:43:59 --> 404 Page Not Found: Old-site/index
+ERROR - 2022-01-10 04:44:00 --> 404 Page Not Found: Temp/index
+ERROR - 2022-01-10 04:44:00 --> 404 Page Not Found: 2018/index
+ERROR - 2022-01-10 04:44:00 --> 404 Page Not Found: 2019/index
+ERROR - 2022-01-10 04:44:00 --> 404 Page Not Found: Bk/index
+ERROR - 2022-01-10 04:44:00 --> 404 Page Not Found: Wp1/index
+ERROR - 2022-01-10 04:44:00 --> 404 Page Not Found: Wp2/index
+ERROR - 2022-01-10 04:44:00 --> 404 Page Not Found: V1/index
+ERROR - 2022-01-10 04:44:00 --> 404 Page Not Found: V2/index
+ERROR - 2022-01-10 04:44:01 --> 404 Page Not Found: Bak/index
+ERROR - 2022-01-10 04:44:01 --> 404 Page Not Found: Install/index
+ERROR - 2022-01-10 04:44:02 --> 404 Page Not Found: 2020/index
+ERROR - 2022-01-10 04:44:02 --> 404 Page Not Found: New-site/index
+ERROR - 2022-01-10 05:00:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 05:40:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 06:27:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 13:27:31 --> Severity: Warning --> file_get_contents(./media_library/files/24051b2745cbb806d88507e6ade2a70a.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-01-10 07:43:19 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 07:50:38 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 08:30:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 08:32:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 09:10:00 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-01-10 09:37:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 16:37:32 --> Severity: Warning --> file_get_contents(./media_library/files/a6ac70ff63395f1a06752d44ec557b70.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-01-10 12:01:30 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 12:07:17 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 12:48:01 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2022-01-10 12:48:02 --> 404 Page Not Found: Wp/wp-content
+ERROR - 2022-01-10 12:48:02 --> 404 Page Not Found: Wordpress/wp-content
+ERROR - 2022-01-10 12:48:02 --> 404 Page Not Found: blog/Wp-content/themes
+ERROR - 2022-01-10 12:48:03 --> 404 Page Not Found: Site/wp-content
+ERROR - 2022-01-10 13:03:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 20:03:14 --> Severity: Warning --> file_get_contents(./media_library/files/128afd912494cc8388dd892f6c3cbe9a.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-01-10 13:10:46 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 13:54:00 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 13:58:01 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 14:00:11 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 14:01:05 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 14:06:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 14:20:07 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 14:28:27 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 21:40:14 --> Severity: Warning --> file_get_contents(./media_library/files/9ed6cb28c658d6e2b06b4ade5b6f5b80.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-01-10 14:50:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2022-01-10 14:50:00 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2022-01-10 14:51:19 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 15:24:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 16:10:22 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 16:19:49 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-10 16:45:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 18:12:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 18:22:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 18:25:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 18:48:25 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-01-10 18:48:44 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-01-10 18:51:29 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-01-10 19:01:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 19:19:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 19:33:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-10 21:35:36 --> 404 Page Not Found: Robotstxt/index

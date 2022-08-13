@@ -1,0 +1,52 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-20 00:38:09 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-07-20 02:08:16 --> Severity: Warning --> file_get_contents(./media_library/files/e2457e5555026eafbf0f74404463a4c5.pdf): failed to open stream: No such file or directory /www/wwwroot/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-07-20 05:06:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 06:50:13 --> 404 Page Not Found: Category/infografis
+ERROR - 2021-07-20 07:33:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 07:54:15 --> 404 Page Not Found: Portfolio/index
+ERROR - 2021-07-20 08:10:39 --> 404 Page Not Found: Service/index
+ERROR - 2021-07-20 08:32:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 09:13:06 --> Severity: Warning --> file_get_contents(./media_library/files/4927507249587b8f7b885640d69e00a9.pdf): failed to open stream: No such file or directory /www/wwwroot/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-07-20 10:42:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 11:21:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 12:28:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 13:51:44 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-20 13:55:43 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-20 14:03:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 14:30:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 15:03:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 15:29:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 16:38:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 21:35:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 21:38:57 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-20 21:38:58 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-20 21:38:58 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-20 21:38:58 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-20 21:38:58 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-20 21:38:59 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-20 21:38:59 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-20 21:38:59 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-07-20 21:39:00 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-07-20 21:39:00 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-07-20 21:39:00 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-07-20 21:42:41 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-07-20 21:42:42 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-07-20 21:42:42 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-07-20 21:42:42 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-20 21:42:42 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-07-20 21:42:49 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-07-20 21:45:50 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-20 21:45:50 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-20 21:45:50 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-20 21:45:50 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-20 21:45:50 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-20 21:45:50 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-20 21:45:51 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-20 21:45:51 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-07-20 21:45:51 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-07-20 21:45:51 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-07-20 21:45:51 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-07-20 21:51:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-20 23:03:35 --> 404 Page Not Found: Media_library/images

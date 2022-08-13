@@ -1,0 +1,39 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-26 01:07:07 --> Severity: Warning --> file_get_contents(./media_library/files/d7a9c3344e278511f62233f3338c6c4b.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-01-26 00:05:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 00:25:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 00:25:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 01:43:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 01:58:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 02:54:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 02:54:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 03:05:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 03:05:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 04:10:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 04:34:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 06:44:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 07:10:10 --> 404 Page Not Found: Env/index
+ERROR - 2022-01-26 07:16:27 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-26 07:54:58 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-01-26 09:24:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 10:02:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 10:02:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 10:22:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 10:38:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 11:38:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 13:19:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 13:49:18 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-01-26 14:12:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 14:17:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 14:17:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 14:38:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 15:29:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 16:01:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 16:19:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 17:50:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 18:15:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 21:34:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 22:34:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 23:02:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-26 23:46:27 --> 404 Page Not Found: Robotstxt/index

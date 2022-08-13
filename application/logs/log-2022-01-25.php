@@ -1,0 +1,42 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-25 01:38:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 02:10:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 02:25:26 --> 404 Page Not Found: Team/index
+ERROR - 2022-01-25 02:51:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 04:14:22 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-01-25 04:42:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 05:19:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 05:25:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 05:25:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 05:54:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 06:29:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 06:55:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 07:52:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 07:52:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 07:57:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 08:39:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 08:45:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 08:45:25 --> 404 Page Not Found: Portfolio/index
+ERROR - 2022-01-25 09:05:04 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-25 16:09:10 --> Severity: Warning --> file_get_contents(./media_library/files/4927507249587b8f7b885640d69e00a9.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-01-25 10:45:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 12:47:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 12:47:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 14:18:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 15:31:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 16:20:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 16:42:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 16:42:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 16:47:58 --> 404 Page Not Found: Wp-content/uploads
+ERROR - 2022-01-25 16:58:16 --> 404 Page Not Found: Wp-content/uploads
+ERROR - 2022-01-25 17:36:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 17:47:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 18:08:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 19:49:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 20:24:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 20:43:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 20:43:04 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-25 20:56:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-25 20:56:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-01-25 22:03:18 --> 404 Page Not Found: Robotstxt/index

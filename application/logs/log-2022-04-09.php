@@ -1,0 +1,37 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-04-09 00:41:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-09 03:04:12 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-04-09 03:04:26 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-04-09 04:23:36 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-04-09 04:41:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-09 04:51:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-09 07:45:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-09 08:05:32 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-04-09 08:07:39 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-04-09 08:07:46 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-04-09 10:41:31 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2022-04-09 14:14:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-09 15:05:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-09 16:16:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-09 18:00:47 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2022-04-09 18:00:47 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-04-09 18:00:48 --> 404 Page Not Found: blog/Wp-includes/wlwmanifest.xml
+ERROR - 2022-04-09 18:00:48 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2022-04-09 18:00:48 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2022-04-09 18:00:49 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2022-04-09 18:00:49 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2022-04-09 18:00:49 --> 404 Page Not Found: News/wp-includes
+ERROR - 2022-04-09 18:00:49 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2022-04-09 18:00:49 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2022-04-09 18:00:50 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2022-04-09 18:00:50 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2022-04-09 18:00:50 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2022-04-09 18:00:50 --> 404 Page Not Found: media/Wp-includes/wlwmanifest.xml
+ERROR - 2022-04-09 18:00:50 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2022-04-09 18:00:51 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2022-04-09 18:00:51 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2022-04-09 18:00:51 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2022-04-09 19:23:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-04-09 20:20:49 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-04-09 20:40:40 --> 404 Page Not Found: Robotstxt/index

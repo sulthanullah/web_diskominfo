@@ -1,0 +1,45 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-07-26 00:59:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 01:06:02 --> 404 Page Not Found: 2015/09
+ERROR - 2021-07-26 01:43:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 01:52:18 --> 404 Page Not Found: 2016/02
+ERROR - 2021-07-26 02:28:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 02:32:03 --> 404 Page Not Found: Author/admin
+ERROR - 2021-07-26 03:49:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 03:58:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 04:02:48 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-07-26 04:43:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 04:48:19 --> 404 Page Not Found: 2015/09
+ERROR - 2021-07-26 05:06:20 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-26 05:17:42 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-26 05:27:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 05:32:39 --> 404 Page Not Found: 2015/09
+ERROR - 2021-07-26 06:11:18 --> 404 Page Not Found: Service/index
+ERROR - 2021-07-26 05:30:15 --> Severity: Warning --> file_get_contents(./media_library/files/ea1f0accd77c279bc0c30662ee58632b.pdf): failed to open stream: No such file or directory /www/wwwroot/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-07-26 07:43:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 08:02:04 --> 404 Page Not Found: Env/index
+ERROR - 2021-07-26 08:17:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 08:28:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 08:39:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 09:57:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 10:42:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 10:55:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 11:13:27 --> 404 Page Not Found: Testimonial/index
+ERROR - 2021-07-26 11:27:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 11:34:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 12:13:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 12:16:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 12:58:54 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-26 12:58:54 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-26 12:58:54 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-26 12:58:54 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-26 12:58:54 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-07-26 12:58:54 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-26 12:58:54 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-07-26 12:58:54 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-07-26 12:58:54 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-07-26 12:58:54 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-07-26 12:58:55 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-07-26 13:01:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-07-26 13:11:58 --> 404 Page Not Found: Team/index

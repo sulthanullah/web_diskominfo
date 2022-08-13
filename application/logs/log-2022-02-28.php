@@ -1,0 +1,54 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-28 01:13:38 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-02-28 03:00:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 03:10:44 --> 404 Page Not Found: Aboutphp/index
+ERROR - 2022-02-28 03:10:44 --> 404 Page Not Found: 3indexphp/index
+ERROR - 2022-02-28 03:10:45 --> 404 Page Not Found: 2indexphp/index
+ERROR - 2022-02-28 03:10:45 --> 404 Page Not Found: Cphp/index
+ERROR - 2022-02-28 03:10:45 --> 404 Page Not Found: Cphp/index
+ERROR - 2022-02-28 03:10:46 --> 404 Page Not Found: 01php/index
+ERROR - 2022-02-28 03:10:47 --> 404 Page Not Found: 1php/index
+ERROR - 2022-02-28 03:10:47 --> 404 Page Not Found: 02php/index
+ERROR - 2022-02-28 03:10:48 --> 404 Page Not Found: 2php/index
+ERROR - 2022-02-28 03:10:48 --> 404 Page Not Found: Fwphp/index
+ERROR - 2022-02-28 03:10:49 --> 404 Page Not Found: Alfaphp/index
+ERROR - 2022-02-28 03:10:49 --> 404 Page Not Found: Miniphp/index
+ERROR - 2022-02-28 03:10:49 --> 404 Page Not Found: Xphp/index
+ERROR - 2022-02-28 03:10:50 --> 404 Page Not Found: 404php/index
+ERROR - 2022-02-28 03:10:50 --> 404 Page Not Found: 403php/index
+ERROR - 2022-02-28 03:10:51 --> 404 Page Not Found: Wsophp/index
+ERROR - 2022-02-28 03:10:51 --> 404 Page Not Found: Adminphp/index
+ERROR - 2022-02-28 03:10:52 --> 404 Page Not Found: Wp-22php/index
+ERROR - 2022-02-28 03:10:52 --> 404 Page Not Found: 1indexphp/index
+ERROR - 2022-02-28 03:10:53 --> 404 Page Not Found: Marijuanaphp/index
+ERROR - 2022-02-28 03:10:53 --> 404 Page Not Found: Goodphp/index
+ERROR - 2022-02-28 03:10:54 --> 404 Page Not Found: Classesphp/index
+ERROR - 2022-02-28 03:10:54 --> 404 Page Not Found: Docphp/index
+ERROR - 2022-02-28 03:10:55 --> 404 Page Not Found: Editorphp/index
+ERROR - 2022-02-28 03:10:55 --> 404 Page Not Found: Priv8php/index
+ERROR - 2022-02-28 03:10:56 --> 404 Page Not Found: Wp-classphp/index
+ERROR - 2022-02-28 03:10:56 --> 404 Page Not Found: Wpphp/index
+ERROR - 2022-02-28 04:08:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 06:10:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 07:30:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 08:04:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 09:06:47 --> 404 Page Not Found: Git/index
+ERROR - 2022-02-28 09:06:50 --> 404 Page Not Found: Api/.git
+ERROR - 2022-02-28 09:39:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 10:18:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 10:57:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 13:02:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 20:16:44 --> Severity: Warning --> file_get_contents(./media_library/files/4927507249587b8f7b885640d69e00a9.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-02-28 13:43:33 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-02-28 13:50:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 21:04:17 --> Severity: Warning --> file_get_contents(./media_library/files/b437e4d0b63ecd82c7174334193d4a79.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-02-28 14:04:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 14:40:03 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-02-28 16:01:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 19:13:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 21:04:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 21:03:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 21:58:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 22:04:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-28 22:26:55 --> 404 Page Not Found: Robotstxt/index

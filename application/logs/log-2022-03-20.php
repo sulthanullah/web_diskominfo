@@ -1,0 +1,43 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-20 00:30:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 01:32:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 02:50:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 05:08:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 07:32:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 08:09:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 08:34:24 --> 404 Page Not Found: Well-known/traffic-advice
+ERROR - 2022-03-20 09:51:43 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-03-20 10:08:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 13:17:28 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2022-03-20 13:17:28 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-03-20 13:17:28 --> 404 Page Not Found: blog/Wp-includes/wlwmanifest.xml
+ERROR - 2022-03-20 13:17:29 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2022-03-20 13:17:29 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2022-03-20 13:17:29 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2022-03-20 13:17:29 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2022-03-20 13:17:30 --> 404 Page Not Found: News/wp-includes
+ERROR - 2022-03-20 13:17:30 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2022-03-20 13:17:30 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2022-03-20 13:17:31 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2022-03-20 13:17:31 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2022-03-20 13:17:32 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2022-03-20 13:17:32 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2022-03-20 13:17:32 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2022-03-20 13:17:32 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2022-03-20 13:17:33 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2022-03-20 13:30:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 14:22:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 15:02:16 --> 404 Page Not Found: Testimonial/index
+ERROR - 2022-03-20 16:09:13 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-03-20 16:09:34 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-03-20 16:09:53 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-03-20 16:10:19 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-03-20 16:10:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 23:20:25 --> Severity: Warning --> file_get_contents(./media_library/files/8fb77a2d09446f6b98eb900caa2bbd32.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-03-20 18:52:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 19:19:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 20:26:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 21:11:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 23:36:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-20 23:41:48 --> 404 Page Not Found: Xmlrpcphp/index

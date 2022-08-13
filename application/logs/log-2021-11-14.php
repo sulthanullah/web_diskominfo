@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-14 02:14:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 03:33:39 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-14 03:40:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 05:01:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 06:12:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 06:35:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 07:52:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 08:08:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 08:38:01 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-11-14 08:38:01 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-11-14 08:38:02 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-11-14 08:43:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 09:08:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 11:23:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 13:14:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 13:33:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 13:49:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 15:52:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 17:08:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 17:21:09 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2021-11-14 17:48:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 18:30:56 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2021-11-14 18:31:06 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2021-11-14 21:33:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 21:33:49 --> 404 Page Not Found: public/Uploads/event-2.jpg
+ERROR - 2021-11-14 22:03:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 22:11:52 --> 404 Page Not Found: Category/2
+ERROR - 2021-11-14 23:19:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-11-14 23:26:19 --> 404 Page Not Found: Media_library/albums

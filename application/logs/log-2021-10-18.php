@@ -1,0 +1,55 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-18 04:25:08 --> Severity: Warning --> file_get_contents(./media_library/files/a6ac70ff63395f1a06752d44ec557b70.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-10-18 00:45:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 08:09:28 --> Severity: Warning --> file_get_contents(./media_library/files/ea1f0accd77c279bc0c30662ee58632b.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-10-18 02:27:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 03:06:17 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-10-18 03:06:17 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 03:06:17 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 03:06:18 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 03:06:18 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-10-18 03:06:18 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 03:06:18 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 03:29:10 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 03:29:10 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 03:29:10 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-10-18 03:29:10 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-10-18 03:29:10 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 03:29:10 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 03:29:11 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 03:59:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 04:31:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 05:20:39 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 05:20:39 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 05:20:41 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-10-18 05:30:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 06:47:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 06:51:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 07:47:16 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 09:19:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 13:21:32 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 13:21:34 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 13:21:35 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 13:21:37 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 13:21:56 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 13:21:56 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 13:29:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 15:28:31 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 15:28:31 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 15:28:31 --> 404 Page Not Found: Media_library/image_sliders
+ERROR - 2021-10-18 15:28:32 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 15:28:32 --> 404 Page Not Found: Media_library/albums
+ERROR - 2021-10-18 15:28:33 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-10-18 15:28:37 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 15:28:37 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 15:28:53 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-10-18 15:28:55 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 15:28:58 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 17:22:52 --> 404 Page Not Found: Env/index
+ERROR - 2021-10-18 17:52:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 21:21:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-18 23:35:43 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-10-18 23:49:51 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 23:49:51 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-10-18 23:49:52 --> 404 Page Not Found: Media_library/images

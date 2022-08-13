@@ -1,0 +1,50 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-06-17 02:15:50 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-06-17 02:20:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 09:20:58 --> Severity: Warning --> file_get_contents(./media_library/files/24051b2745cbb806d88507e6ade2a70a.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-06-17 03:20:35 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-06-17 04:04:14 --> 404 Page Not Found: Magento_version/index
+ERROR - 2022-06-17 04:04:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 04:09:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 04:09:45 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-06-17 04:27:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 04:46:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 04:54:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 04:54:45 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-06-17 06:33:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 13:33:50 --> Severity: Warning --> file_get_contents(./media_library/files/a6ac70ff63395f1a06752d44ec557b70.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-06-17 07:51:48 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-06-17 07:52:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 08:39:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 10:43:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 17:57:28 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2022-06-17 18:04:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 19:18:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 19:33:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 19:52:07 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-06-17 20:04:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 20:11:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 20:22:00 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-06-17 21:12:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 22:08:27 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-06-17 22:34:57 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2022-06-17 22:34:58 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2022-06-17 22:35:00 --> 404 Page Not Found: blog/Wp-includes/wlwmanifest.xml
+ERROR - 2022-06-17 22:35:02 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2022-06-17 22:35:02 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2022-06-17 22:35:03 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2022-06-17 22:35:03 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2022-06-17 22:35:04 --> 404 Page Not Found: News/wp-includes
+ERROR - 2022-06-17 22:35:04 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2022-06-17 22:35:05 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2022-06-17 22:35:05 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2022-06-17 22:35:06 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2022-06-17 22:35:06 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2022-06-17 22:35:07 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2022-06-17 22:35:08 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2022-06-17 22:35:08 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2022-06-17 22:35:09 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2022-06-17 22:54:33 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-06-17 23:00:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-06-17 23:22:35 --> 404 Page Not Found: Robotstxt/index

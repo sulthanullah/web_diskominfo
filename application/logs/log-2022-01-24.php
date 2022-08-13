@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-24 00:30:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 00:44:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 01:05:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 01:06:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 01:06:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 02:13:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 04:50:24 --> 404 Page Not Found: News/view
+ERROR - 2022-01-24 05:31:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 06:23:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 07:44:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 11:12:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 11:12:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 12:24:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 12:25:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 12:25:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 15:01:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 16:12:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 17:12:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 17:12:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 17:24:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 17:25:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 18:41:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 20:26:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 20:51:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 21:50:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 23:35:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-24 23:37:30 --> 404 Page Not Found: Robotstxt/index

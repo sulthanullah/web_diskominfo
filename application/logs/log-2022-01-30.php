@@ -1,0 +1,86 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-30 00:56:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-01-30 02:20:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 02:22:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 04:08:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 04:08:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 05:16:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 05:40:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 06:42:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 13:42:44 --> Severity: Warning --> file_get_contents(./media_library/files/8fb77a2d09446f6b98eb900caa2bbd32.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-01-30 07:20:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 07:57:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 08:15:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 08:17:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 08:17:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 09:53:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 09:53:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 10:01:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 13:51:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 13:51:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 14:26:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 15:05:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 15:08:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 15:27:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 15:32:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 16:08:05 --> 404 Page Not Found: News/view
+ERROR - 2022-01-30 17:10:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 18:03:45 --> 404 Page Not Found: -/index
+ERROR - 2022-01-30 18:12:42 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-01-30 18:29:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 18:29:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 18:36:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 20:16:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 20:53:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 21:04:43 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2022-01-30 21:04:43 --> Unable to connect to the database
+ERROR - 2022-01-30 21:04:43 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2022-01-30 21:04:43 --> Severity: Error --> session_start(): Failed to initialize storage module: user (path: /tmp) /home/solselkab/public_html/diskominfo.solselkab.go.id/system/libraries/Session/Session.php 143
+ERROR - 2022-01-30 22:13:14 --> 404 Page Not Found: Stylephp/index
+ERROR - 2022-01-30 22:13:19 --> 404 Page Not Found: Modulessphp/index
+ERROR - 2022-01-30 22:13:28 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-01-30 22:13:31 --> 404 Page Not Found: Adminphp/index
+ERROR - 2022-01-30 22:13:41 --> 404 Page Not Found: Boomphp/index
+ERROR - 2022-01-30 22:13:44 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-01-30 22:13:51 --> 404 Page Not Found: Wp-content/db_cache.php
+ERROR - 2022-01-30 22:13:59 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-01-30 22:14:04 --> 404 Page Not Found: Xmlrpphp/index
+ERROR - 2022-01-30 22:14:16 --> 404 Page Not Found: Wpindexphp/index
+ERROR - 2022-01-30 22:14:23 --> 404 Page Not Found: Larvaphp/index
+ERROR - 2022-01-30 22:14:26 --> 404 Page Not Found: Th3_err0rphp/index
+ERROR - 2022-01-30 22:14:30 --> 404 Page Not Found: Alfindexphp/index
+ERROR - 2022-01-30 22:14:40 --> 404 Page Not Found: Alfaphp/index
+ERROR - 2022-01-30 22:14:48 --> 404 Page Not Found: Wp-bookingphp/index
+ERROR - 2022-01-30 22:14:52 --> 404 Page Not Found: Cindexphp/index
+ERROR - 2022-01-30 22:14:54 --> 404 Page Not Found: Wp-content/wp-1ogin_bak.php
+ERROR - 2022-01-30 22:15:02 --> 404 Page Not Found: Wp-1ogin_bakphp/index
+ERROR - 2022-01-30 22:15:08 --> 404 Page Not Found: Wp-includes/fonts
+ERROR - 2022-01-30 22:15:12 --> 404 Page Not Found: Wp-includes/css
+ERROR - 2022-01-30 22:15:17 --> 404 Page Not Found: Old-indexphp/index
+ERROR - 2022-01-30 22:15:21 --> 404 Page Not Found: Configbakphp/index
+ERROR - 2022-01-30 22:15:25 --> 404 Page Not Found: Wp-admin/config.bak.php
+ERROR - 2022-01-30 22:15:34 --> 404 Page Not Found: Wp-content/config.bak.php
+ERROR - 2022-01-30 22:15:37 --> 404 Page Not Found: Wp-includes/config.bak.php
+ERROR - 2022-01-30 22:15:41 --> 404 Page Not Found: Wp-content/themes
+ERROR - 2022-01-30 22:15:46 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-01-30 22:15:57 --> 404 Page Not Found: Wp-includes/css
+ERROR - 2022-01-30 22:16:03 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-01-30 22:16:07 --> 404 Page Not Found: Wp-includes/wpconfig.bak.php
+ERROR - 2022-01-30 22:16:13 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-01-30 22:16:18 --> 404 Page Not Found: Hadersphp/index
+ERROR - 2022-01-30 22:16:26 --> 404 Page Not Found: Wp-content/wp-old-index.php
+ERROR - 2022-01-30 22:16:29 --> 404 Page Not Found: Legionphp/index
+ERROR - 2022-01-30 22:16:35 --> 404 Page Not Found: Wp-content/mu-plugins
+ERROR - 2022-01-30 22:16:37 --> 404 Page Not Found: Wp-includes/lfx.php
+ERROR - 2022-01-30 22:16:39 --> 404 Page Not Found: Wp-includes/small.php
+ERROR - 2022-01-30 22:16:43 --> 404 Page Not Found: Upphp/index
+ERROR - 2022-01-30 22:16:48 --> 404 Page Not Found: Uploadphp/index
+ERROR - 2022-01-30 22:16:52 --> 404 Page Not Found: Configphp/index
+ERROR - 2022-01-30 22:16:56 --> 404 Page Not Found: Testphp/index
+ERROR - 2022-01-30 22:17:02 --> 404 Page Not Found: Wp-content/langar.php
+ERROR - 2022-01-30 22:17:11 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2022-01-30 22:17:15 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-01-30 22:17:24 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-01-30 22:56:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-30 23:26:27 --> 404 Page Not Found: Robotstxt/index

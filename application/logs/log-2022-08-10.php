@@ -1,0 +1,47 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-08-10 00:08:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 00:50:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 01:29:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 01:48:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 01:50:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 01:51:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 03:54:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 03:54:05 --> 404 Page Not Found: Sitemap/index
+ERROR - 2022-08-10 03:54:39 --> 404 Page Not Found: Sitemaptxt/index
+ERROR - 2022-08-10 06:21:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 06:25:42 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-08-10 06:53:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 07:07:22 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-08-10 07:20:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 08:30:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 09:00:02 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-08-10 09:27:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 09:50:31 --> 404 Page Not Found: Media_library/images
+ERROR - 2022-08-10 09:57:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 10:09:35 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-08-10 10:15:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 10:56:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 11:09:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 18:09:02 --> Severity: Warning --> file_get_contents(./media_library/files/9f45fae99e429883847a09680d466768.pdf): failed to open stream: No such file or directory /home/solselkab/public_html/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2022-08-10 11:52:26 --> 404 Page Not Found: Media_library/posts
+ERROR - 2022-08-10 12:36:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 13:24:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 13:59:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-08-10 14:44:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 14:52:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-08-10 16:08:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 16:16:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 17:08:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 17:50:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 18:34:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 18:55:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 19:01:25 --> 404 Page Not Found: Portfolio/index
+ERROR - 2022-08-10 19:12:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 19:37:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 19:50:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 19:50:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 20:08:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 20:16:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 23:03:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-08-10 23:47:15 --> 404 Page Not Found: Robotstxt/index

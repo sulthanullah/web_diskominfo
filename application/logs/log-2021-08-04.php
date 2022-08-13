@@ -1,0 +1,62 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-08-04 00:16:32 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-04 00:52:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 01:51:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 02:53:44 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-04 03:10:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 04:04:38 --> 404 Page Not Found: _profiler/phpinfo
+ERROR - 2021-08-04 04:04:38 --> 404 Page Not Found: Phpinfophp/index
+ERROR - 2021-08-04 04:04:39 --> 404 Page Not Found: Phpinfo/index
+ERROR - 2021-08-04 04:04:39 --> 404 Page Not Found: Awsyml/index
+ERROR - 2021-08-04 04:04:39 --> 404 Page Not Found: Envbak/index
+ERROR - 2021-08-04 04:04:39 --> 404 Page Not Found: Infophp/index
+ERROR - 2021-08-04 04:04:39 --> 404 Page Not Found: Aws/credentials
+ERROR - 2021-08-04 04:04:39 --> 404 Page Not Found: Config/aws.yml
+ERROR - 2021-08-04 04:04:40 --> 404 Page Not Found: Configjs/index
+ERROR - 2021-08-04 04:37:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 04:47:10 --> 404 Page Not Found: Category/infografis
+ERROR - 2021-08-04 06:10:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 07:02:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 07:09:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 07:24:40 --> 404 Page Not Found: Event/welcome-to-city
+ERROR - 2021-08-04 08:01:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 08:19:54 --> 404 Page Not Found: News/view
+ERROR - 2021-08-04 08:26:49 --> 404 Page Not Found: Service/view
+ERROR - 2021-08-04 08:31:49 --> 404 Page Not Found: Service/view
+ERROR - 2021-08-04 08:03:20 --> Severity: Warning --> file_get_contents(./media_library/files/e2457e5555026eafbf0f74404463a4c5.pdf): failed to open stream: No such file or directory /www/wwwroot/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-08-04 09:27:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 10:12:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 10:13:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 13:49:45 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-04 14:29:37 --> 404 Page Not Found: Service/view
+ERROR - 2021-08-04 15:00:49 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-08-04 15:00:49 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-08-04 15:00:49 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-08-04 15:00:56 --> 404 Page Not Found: Well-known/acme-challenge
+ERROR - 2021-08-04 15:05:42 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-04 15:05:53 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-04 15:07:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 15:42:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 15:59:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 15:13:50 --> Severity: Warning --> file_get_contents(./media_library/files/d7a9c3344e278511f62233f3338c6c4b.pdf): failed to open stream: No such file or directory /www/wwwroot/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-08-04 15:14:30 --> Severity: Warning --> file_get_contents(./media_library/files/4927507249587b8f7b885640d69e00a9.pdf): failed to open stream: No such file or directory /www/wwwroot/diskominfo.solselkab.go.id/application/controllers/public/Download.php 82
+ERROR - 2021-08-04 16:14:40 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-04 16:52:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 17:41:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 18:12:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 18:45:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 19:21:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 19:24:41 --> 404 Page Not Found: Contact/index
+ERROR - 2021-08-04 19:58:05 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-08-04 19:58:05 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-08-04 19:58:05 --> 404 Page Not Found: Media_library/banners
+ERROR - 2021-08-04 19:58:05 --> 404 Page Not Found: Media_library/images
+ERROR - 2021-08-04 20:11:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 21:09:06 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-04 21:51:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 22:44:51 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-04 22:44:52 --> 404 Page Not Found: Media_library/posts
+ERROR - 2021-08-04 22:50:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-08-04 22:54:34 --> 404 Page Not Found: Category/3
+ERROR - 2021-08-04 23:08:13 --> 404 Page Not Found: Services_group/transportation
