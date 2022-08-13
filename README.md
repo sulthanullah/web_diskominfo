@@ -34,14 +34,14 @@
 
 
 <!-- SCREENSHOT THEME VERSI 1 -->
-## Screenshot The Project
+## SCREENSHOT THEME VERSI 1
 
   <a href="#">
     <img src="images/screenshot.png">
   </a>
 
  <!-- SCREENSHOT THEME VERSI 2 -->
-## Screenshot The Project
+## SCREENSHOT THEME VERSI 2
 
   <a href="#">
     <img src="images/screenshot2.png">
