@@ -33,14 +33,19 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- SCREENSHOT THEME VERSI 1 -->
+## Screenshot The Project
 
   <a href="#">
     <img src="images/screenshot.png">
   </a>
 
- 
+ <!-- SCREENSHOT THEME VERSI 2 -->
+## Screenshot The Project
+
+  <a href="#">
+    <img src="images/screenshot2.png">
+  </a>
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
