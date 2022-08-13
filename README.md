@@ -40,7 +40,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://satudata.solselkab.go.id)
+  <a href="#">
+    <img src="images/screenshot.png">
+  </a>
 
  
 
