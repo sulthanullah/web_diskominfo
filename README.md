@@ -11,19 +11,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="http://satudata.solselkab.go.id">
+  <a href="https://solselkab.go.id">
     <img src="images/Lambang_Kabupaten_Solok_Selatan.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Satu Data Kabupaten Solok Selatan</h3>
+  <h3 align="center">Sourcode Web Opd</h3>
 
   <p align="center">
-    Install In Proxmox & Docker
     <br />
-    <a href="#"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="http://satudata.solselkab.go.id">View Demo</a>
+    <a href="#">View Demo</a>
     ·
     <a href="#">Report Bug</a>
     ·
