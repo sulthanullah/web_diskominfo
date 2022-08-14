@@ -19,11 +19,9 @@
 
   <p align="center">
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://www.facebook.com/profile.php?id=100006120976889">Report Bug</a>
     ·
-    <a href="#">Report Bug</a>
-    ·
-    <a href="#">Request Feature</a>
+    <a href="https://www.facebook.com/profile.php?id=100006120976889">Request Feature</a>
   </p>
 </div>
 
