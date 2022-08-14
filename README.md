@@ -49,6 +49,7 @@
   <a href="#">
     <img src="images/screenshot2.png">
   </a>
+  
 ## VIDEO DEMO THEME VERSI 2
 <a href="https://youtu.be/Ryc9-oHfeTo">View Demo</a>
 
