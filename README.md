@@ -39,6 +39,9 @@
   <a href="#">
     <img src="images/screenshot.png">
   </a>
+  
+## VIDEO DEMO THEME VERSI 1
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ud704GpJnag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  <!-- SCREENSHOT THEME VERSI 2 -->
 ## SCREENSHOT THEME VERSI 2
